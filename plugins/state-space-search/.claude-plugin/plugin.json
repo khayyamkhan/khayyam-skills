@@ -1,0 +1,6 @@
+{
+  "name": "state-space-search",
+  "version": "1.0.0",
+  "description": "Evaluate possible action sequences against goals, constraints, dependencies and risks to find the best order to do things.",
+  "author": { "name": "Khayyam" }
+}

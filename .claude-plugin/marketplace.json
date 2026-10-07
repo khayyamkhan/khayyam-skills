@@ -1,0 +1,11 @@
+{
+  "name": "khayyam-skills",
+  "owner": { "name": "Khayyam" },
+  "plugins": [
+    {
+      "name": "state-space-search",
+      "source": "./plugins/state-space-search",
+      "description": "Evaluate possible action sequences against goals, constraints, dependencies and risks to find the best order to do things."
+    }
+  ]
+}
